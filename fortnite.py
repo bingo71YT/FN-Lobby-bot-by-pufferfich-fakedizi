@@ -2,7 +2,7 @@
 
 “Commons Clause” License Condition v1.0
 
-Copyright pufferfich/fake dizi 2020
+Copyright pufferfich/fake dizi 2029
 
 
 
