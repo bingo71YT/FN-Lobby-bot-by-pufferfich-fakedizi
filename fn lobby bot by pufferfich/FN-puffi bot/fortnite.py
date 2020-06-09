@@ -127,7 +127,6 @@ print(color.GREEN + f'██████╔╝██║   ██║████�
 print(color.GREEN + f'██╔═══╝ ██║   ██║██╔══╝  ██╔══╝  ██║  ██╔══██╗██║  ██║   ██║   ')
 print(color.GREEN + f'██║     ╚██████╔╝██║     ██║     ██║  ██████╦╝╚█████╔╝   ██║   ')
 print(color.GREEN + f'╚═╝      ╚═════╝ ╚═╝     ╚═╝     ╚═╝  ╚═════╝  ╚════╝    ╚═╝   ')
-print(color.YELLOW + f'══════════════════════════════════════════════════════════════')
 print(f'  ') 
 
 
@@ -176,7 +175,7 @@ else:
 
     print(f' [puffi bot] [{getTime()}] Debug logging is off.')
 
-
+print(color.YELLOW + f'══════════════════════════════════════════════════════════════')
 
 def get_device_auth_details():
 
